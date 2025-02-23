@@ -1,0 +1,18 @@
+#mailb{
+color: aliceblue;
+}
+#fn{
+    background-color: rgb(143, 189, 182);
+    padding: 30px;
+}
+#ftrlo{
+  width: 200px;  
+}
+body{
+  margin: 0%;
+}
+#ftr{
+ display: grid;
+ grid-template-columns: repeat(4,1fr);
+ column-gap: 10px;
+}
