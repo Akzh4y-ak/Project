@@ -33,14 +33,34 @@
    color: grey; 
 }
 .pc{
- margin-left: 200px;
+ margin-left: 280px;
  position: relative;
  top: 20px;
- left: 5px;
 font-size: medium;
 font-weight: 600;
 }
 .pcimg{
-  padding: 8px;  
-  
+  padding: 5px;  
+}
+#bc{
+    margin-left: 250px;
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 20px;
+}
+.bun{
+    width: 100px;
+    height: 40px;
+    margin-top: 50px;
+    border: none;
+    font-size: small;
+}
+#procon{
+    display: flex;
+    border: 3px solid red;
+}
+.crdimg{
+    width: 200px;
+    align-items: center;
+
 }
