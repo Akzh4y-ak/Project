@@ -18,3 +18,17 @@
     gap: 20px;
     margin-top: 50px;
 }
+.hp{
+    color: rgb(96, 94, 94);
+    font-weight: 700;
+}
+.ft{
+    font-weight: 700;
+}
+.gc{
+    color: rgba(25, 151, 44, 0.922);
+    font-weight: 700;
+}
+.save{
+   color: grey; 
+}
