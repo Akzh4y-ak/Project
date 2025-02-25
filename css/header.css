@@ -1,5 +1,14 @@
 .hl{
 text-decoration: none;
 font-size: large;
-
+color: black;
+font-weight: 450;
+}
+#hosh{
+   background-color: rgb(205, 202, 202); 
+   height: 50px;
+   text-align: center;
+}
+.hl:hover{
+  color: green;
 }
