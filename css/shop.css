@@ -1,6 +1,9 @@
 #shopcont{
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-evenly;
-    gap: 30px;
+    gap: 40px;
+   margin-left: 30px;
+}
+#shopimg{
+    padding: 8px;
 }
