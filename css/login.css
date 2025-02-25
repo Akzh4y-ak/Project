@@ -1,0 +1,10 @@
+#logincont{
+    border: 3px solid black;
+    display: flex;
+    column-gap: 50px;
+    flex-wrap: wrap;
+}
+.login1{
+    border: 1px solid green;
+    padding: 50px;
+}
