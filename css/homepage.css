@@ -57,10 +57,41 @@ font-weight: 600;
 }
 #procon{
     display: flex;
-    border: 3px solid red;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: center;
+    margin-top: 70px;
 }
-.crdimg{
-    width: 200px;
-    align-items: center;
+#dealcon{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    gap: 30px;
+   justify-content: center;
+    margin-top: 80px;
 
+}
+#dod1{
+    width: 350px;
+    height: 350px;
+    background-image: url(../img/deals-1.jpg);
+    background-size: cover;
+}
+#dod2{
+    width: 350px;
+    height: 350px;
+    background-image: url(../img/deals-2.png);
+    background-size: cover;
+}
+.newar{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  margin-top: 70px;  
+  justify-content: center; 
+}
+.nas{
+    padding-left: 150px;
+    position: relative;
+    top: 50px;
 }
