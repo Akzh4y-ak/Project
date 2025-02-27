@@ -95,3 +95,52 @@ font-weight: 600;
     position: relative;
     top: 50px;
 }
+#pdimg1{
+    position: absolute;
+}
+#pdimg1:hover{
+transition: ease-in-out;   
+opacity: 0;
+}
+#pdimg3{
+    position: absolute;
+}
+#pdimg3:hover{
+opacity: 0;
+}
+#pdimg5{
+    position: absolute;
+}
+#pdimg5:hover{
+    opacity: 0;
+}
+#pdimg7{
+    position: absolute;
+}
+#pdimg7:hover{
+    opacity: 0;
+}
+#pdimg9{
+    position: absolute;
+}
+#pdimg9:hover{
+    opacity: 0;
+}
+#pdimg11{
+    position: absolute;
+}
+#pdimg11:hover{
+    opacity: 0;
+}
+#pdimg13{
+    position: absolute;
+}
+#pdimg13:hover{
+    opacity: 0;
+}
+#pdimg15{
+    position: absolute;
+}
+#pdimg15:hover{
+    opacity: 0;
+}
