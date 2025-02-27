@@ -5,20 +5,21 @@
 #tabcon{
     display: flex;
     flex-wrap: wrap;
-    padding: 20px;
+    margin: 50px;
 }
 .colbtn{
-    width: 20px;
-    height: 20px;
+    width: 30px;
+    height: 30px;
     border-radius: 50%;
     border: none;
-    background: linear-gradient(red,orange,yellow);
-    
+    margin-left: 10px;
 }
 .buybtn{
     background-color: green;
     color: aliceblue;
     border: none;
-    height: 30px;
+    height: 40px;
+    width: 100px;
     font-weight: 500;
+    border-radius: 5px;
 }
